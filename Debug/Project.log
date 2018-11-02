@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling Lab5Conversion.asm...
+  Project.vcxproj -> F:\Fall 2016\Assembly Language & Comp. Org\Assignments\Assignment5. Lab5\Lab5.Conversions\Debug\Lab5.exe
+  Project.vcxproj -> F:\Fall 2016\Assembly Language & Comp. Org\Assignments\Assignment5. Lab5\Lab5.Conversions\Debug\Lab5.pdb (Full PDB)
